@@ -29,7 +29,7 @@ Once that is done
 
 paste the following in different terminals (dont forget to source each terminal ie source devel/setup.bash)
 
-roslaunch xarm_gazebo xarm6_challenge.launchhttps://github.com/jeliston/egr550_python_project.git
+roslaunch xarm_gazebo xarm6_challenge.launch
 
 roslaunch xarm6_gripper_moveit_config xarm6_gripper_moveit_gazebo.launch
 
