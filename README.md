@@ -1,4 +1,7 @@
 # egr598_python_project
+
+Youtube link : https://youtu.be/25unwgreXMU
+
 Tested using Ubuntu 18.04 and ROS Melodic
 
 To recrete it,
